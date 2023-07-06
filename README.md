@@ -143,7 +143,6 @@ selection techniques to identify the most relevant features for the model, which
 improve the model's performance.
 
 # PYTHON NOTEBOOK
-https://colab.research.google.com/drive/12RlmlluMLLxqFQsRwmAxhSIu2JDFsBD6?usp=shari
-ng
+https://colab.research.google.com/drive/12RlmlluMLLxqFQsRwmAxhSIu2JDFsBD6?usp=sharing
 
 
