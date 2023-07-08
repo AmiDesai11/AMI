@@ -19,31 +19,28 @@ the mountains, and other variables like floors and condition which are numerical
 categorical features.
 
 The descriptions of each feature are as follows:
-id — unique ID for a house
-
-date — date day house was sold
-
-price — Price is the prediction target
-
-bedrooms — number of bedrooms
-bathrooms — number of bathrooms
-sqft_living — square footage of the home
-sqft_lot — square footage of the lot
-floors — total floors (levels) in house
-waterfront — whether house has a view to a waterfront
-view — number of times house has been viewed
-condition — how good the condition is (overall)
-grade — overall grade given to the housing unit, based on King County grading system
-sqft_above — square footage of house (apart from basement)
-sqft_basement — square footage of the basement
-yr_built — year when house was built
-yr_renovated — year when house was renovated
-zipcode — zip code in which house is located
-lat — Latitude coordinate
-long — Longitude coordinate
+id — unique ID for a house,
+date — date day house was sold,
+price — Price is the prediction target,
+bedrooms — number of bedrooms,
+bathrooms — number of bathrooms,
+sqft_living — square footage of the home,
+sqft_lot — square footage of the lot,
+floors — total floors (levels) in house,
+waterfront — whether house has a view to a waterfront,
+view — number of times house has been viewed,
+condition — how good the condition is (overall),
+grade — overall grade given to the housing unit based on King County grading system,
+sqft_above — square footage of house (apart from basement),
+sqft_basement — square footage of the basement,
+yr_built — year when house was built,
+yr_renovated — year when house was renovated,
+zipcode — zip code in which house is located,
+lat — Latitude coordinate,
+long — Longitude coordinate,
 sqft_living15 — the square footage of interior housing living space for the nearest 15
-neighbors
-sqft_lot15 — The square footage of the land lots of the nearest 15 neighbor
+neighbors,
+sqft_lot15 — The square footage of the land lots of the nearest 15 neighbor.
 
 # DATA ANALYSIS
 Exploratory data analysis (EDA) is a critical process in any data science project. It involves
