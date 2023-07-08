@@ -20,8 +20,11 @@ categorical features.
 
 The descriptions of each feature are as follows:
 id — unique ID for a house
+
 date — date day house was sold
+
 price — Price is the prediction target
+
 bedrooms — number of bedrooms
 bathrooms — number of bathrooms
 sqft_living — square footage of the home
